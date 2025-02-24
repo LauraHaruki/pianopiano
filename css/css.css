@@ -1,0 +1,26 @@
+@charset "utf-8";
+.bg-negro {
+	background-color: #000000;
+}
+.mc-auto {
+}
+.mr-6 {
+	margin-top: 80px;
+}
+.bg-fotoin {
+	background-image: url(../imagenes/29_01_24_PianoRedSoc-4.jpg);
+	background-size: cover;
+}
+.bg-sobreimagen {
+	background-color: hsla(0,0%,0%,0.79);
+	color: hsla(0,0%,100%,1.00);
+	border-radius: 12px;
+}
+.mt-35 {
+	padding-top: 0px;
+
+}
+.bg-rojo {
+	background-color: #7A1F1F;
+	color: #FFFFFF;
+}
